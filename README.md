@@ -1,0 +1,2 @@
+# Leaf-Disease-Detection-with-GLCM-for-Feature-Extraction
+ Leaf Disease Detection using GLCM for feature extraction identifies plant diseases from leaf images by analyzing texture patterns. This project leverages Gray-Level Co-occurrence Matrix (GLCM) for feature extraction and applies machine learning models for classification. It helps in early disease detection, aiding farmers in preventive measures.
